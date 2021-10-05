@@ -48,6 +48,109 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
+      span.h4 2. Competencias a desarrollar
+    .row.justify-content-center
+      .col-lg-10
+        //--tabla 1
+        .tabla-a.color-secundario.mb-5 
+          .tabla-b__header
+            h5.mb-0 Competencias técnicas o específicas
+          table
+            //--thead
+              tr
+                th Unidad de competencia
+                th Código UC
+            tbody
+              tr
+                td Diagnosticar la seguridad de la información de acuerdo con métodos de análisis y normativa técnica.
+                td 220501108
+              tr
+                td Diseñar el modelo de seguridad de la información de acuerdo con estándares y marco de referencia. 
+                td 220501109
+              tr
+                td Implementar el sistema de seguridad de la información según modelo y estándares técnicos. 
+                td 220501110         
+              tr
+                td  Controlar sistema de seguridad de la información de acuerdo con los procedimientos y normativa técnica. 
+                td  220501111            
+              tr
+                td  Probar la solución del <i>software</i> de acuerdo con parámetros técnicos y modelos de referencia. 
+                td  220501099 
+              tr
+                td  Monitorear sistemas de gestión de acuerdo con normativa y requerimientos técnicos.
+                td  220601044                                  
+                    
+        //--tabla 2
+        .tabla-a.color-secundario.mb-5 
+          .tabla-b__header
+            h5.mb-0 Competencia inducción
+          table
+            //--thead
+              tr
+                th Unidad de competencia
+                th Código UC
+            tbody
+              tr
+                td Resultado de Aprendizaje de la inducción-inducción
+                td 240201530
+
+        //--tabla 3
+        .tabla-a.color-secundario.mb-5 
+          .tabla-b__header
+            h5.mb-0 Competencias transversales
+          table
+            //--thead
+              tr
+                th Unidad de competencia
+                th Código UC
+            tbody
+              tr
+                td Interactuar en el contexto productivo y social de acuerdo con principios éticos para la construcción de una cultura de paz – <b>Ética para la construcción de una cultura de paz.</b>
+                td 240201526
+              tr
+                td Aplicar prácticas de protección ambiental, seguridad y salud en el trabajo de acuerdo con las políticas organizacionales y la normatividad vigente - <b>Medio ambiente, salud y seguridad.</b>
+                td  220601501 
+              tr
+                td  Ejercer derechos fundamentales del trabajo en el marco de la Constitución Política y los convenios internacionales – <b>Derechos fundamentales del trabajo.</b> 
+                td  210201501
+              tr
+                td  Fomentar cultura emprendedora según habilidades y competencias personales – <b>Cultura emprendedora y empresarial.</b> 
+                td  240201533 
+              tr
+                td  Desarrollo de procesos de investigación efectivos, teniendo en cuenta situaciones de orden social y productivo – <b>Investigación.</b> 
+                td  240201064
+              tr
+                td  Generar hábitos saludables de vida mediante la aplicación de programas de actividad física en los contextos productivos y sociales – <b>Actividad física y hábitos de vida saludable.</b> 
+                td  230101507                         
+
+        //-- tabla last 
+        .tabla-a.color-secundario.mb-5 
+          .tabla-b__header
+            h5.mb-0 Competencias clave
+          table
+            thead
+              tr
+                th Unidad de competencia
+                th Código UC
+            tbody
+              tr
+                td Razonar cuantitativamente frente a situaciones susceptibles de ser abordadas de manera matemática en contextos laborales, sociales y personales - <b>Matemática</b>
+                td 240201528
+              tr
+                td Aplicación de conocimientos de las ciencias naturales de acuerdo con situaciones del contexto productivo y social (<b>Física</b>)
+                td 220201501
+              tr
+                td Desarrollar procesos de comunicación eficaces y efectivos, teniendo en cuenta situaciones de orden social, personal y productivo. – <b>Comunicación</b>.
+                td 220501524            
+              tr
+                td Utilizar herramientas informáticas de acuerdo con necesidades de manejo de información. – <b>TIC</b>.
+                td 240201046 
+              tr
+                td Interactuar en lengua inglesa de forma oral y escrita dentro de contextos sociales y laborales según los criterios establecidos por el Marco Común Europeo de Referencia para las Lenguas. <b>Inglés</b>.
+                td 240202501 
+
+  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
+    .titulo__template--a.mb-4
       span.h4 3. Perfil de ingreso
 
     p El aspirante que busca ingresar al Tecnólogo en implementación y operación de la ciberseguridad debe tener una <b>edad mínima de 16 años</b> y contar con el <b>nivel de educación media aprobado y certificado</b>; lo que quiere decir que deberá <b>tener aprobado el grado 11</b>. No requiere tener, previamente, formación para el trabajo y el desarrollo humano. Adicionalmente, debe <b>aprobar una prueba de aptitud y conocimiento</b>.
