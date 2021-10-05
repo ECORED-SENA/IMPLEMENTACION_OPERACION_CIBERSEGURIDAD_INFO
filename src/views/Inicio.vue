@@ -7,7 +7,7 @@ section
       .row.justify-content-around.align-items-center
         .col-lg-7.col-xxl-6.banner-principal__info
           .banner-principal__programa
-            .h1.mb-0 Atención integral de urgencias a víctimas de ataque con agentes químicos
+            .h1.mb-0 Implementación y operación de la ciberseguridad
           
           .h2 Información del programa
           .banner-principal__datos
@@ -17,32 +17,16 @@ section
                 p.banner-principal__datos__item__texto Atención integral de urgencias a víctimas de ataque con agentes químicos
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
-                p.banner-principal__datos__item__texto 33110258
+                p.banner-principal__datos__item__texto 228124
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Total Horas: 
-                p.banner-principal__datos__item__texto 48 Horas
+                p.banner-principal__datos__item__texto 3984 Horas
               li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
-                p.banner-principal__datos__item__texto 4 Semanas
+                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en meses: 
+                p.banner-principal__datos__item__texto 27 meses
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual
-              li.mb-3.banner-principal__datos__item
-                p.h6.mb-0.me-3.banner-principal__datos__item__titulo Requisito de ingreso: 
-                .banner-principal__datos__item__texto
-                  ul.lista-ul
-                    li
-                      i.lista-ul__vineta
-                      p Solicitud de las Instituciones del Sistema General de Seguridad Social en Salud.
-                    li
-                      i.lista-ul__vineta
-                      p Profesionales, tecnólogos y técnicos de salud que brindan atención a las víctimas de ataque con agentes químicos.
-                    li
-                      i.lista-ul__vineta
-                      p Cumplir con el trámite de selección definido por el Centro de Formación.
-                    li
-                      i.lista-ul__vineta
-                      p Se requiere que el aprendiz AVA (Ambientes Virtuales de Aprendizaje) tenga dominio de elementos básicos en el manejo de herramientas informáticas y de comunicación como correo electrónico, chat, procesadores de texto, software para presentaciones, navegadores de Internet, y otros sistemas y herramientas tecnológicas necesarias para la formación virtual.
 
         .d-none.d-lg-block.col-lg-5
           //- img(src="@/assets/curso/banner-princiapal.svg")
@@ -52,35 +36,47 @@ section
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 1. Presentación
-
-    p En Colombia, los ataques mediante agentes químicos son un delito y una de las formas en las que se manifiesta en el país las violencias de género. A pesar de los esfuerzos estatales, esta violencia sigue presentándose y con frecuencia, las víctimas son atendidas de forma inadecuada en las diferentes instituciones responsables del restablecimiento de sus derechos (sectores salud, justicia y protección)
-      br
-      br
-      | Por tal motivo, el presente curso hace parte de las acciones que el Ministerio de Salud y Protección Social está realizando para garantizar que todas las víctimas de las diferentes manifestaciones de las violencias de género reciban una atención integral, oportuna y de calidad que permita su recuperación. Su principal objetivo es brindar a los equipos de salud información clara sobre las particularidades de las agresiones por agentes químicos, así como las acciones que deben implementarse en diferentes momentos para reducir el daño y tratar las afectaciones a la salud.
+      
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 2. Justificación<br>del programa
 
-    p Con el propósito de garantizar que las víctimas de agresiones por agentes químicos reciban en cualquier institución de salud una atención oportuna, pertinente y con racionalidad científica, de manera que se logre reducir el daño físico y mental, así como, que se desarrollen las acciones que les garantice el acceso a la justicia, a la protección y al restablecimiento de los derechos afectados, se dispone del Protocolo de Atención Integral en Urgencias a Víctimas de Ataque con Agentes Químicos, el cual debe ser observado y aplicado por los prestadores de servicios de salud y demás agentes que tengan contacto primario con las víctimas. El Gobierno Nacional se encargará de garantizar la capacitación del personal estatal que pueda tener contacto primario con una víctima de ataque con sustancias o agentes químicos corrosivos, a fin de darle la atención correspondiente.
+    p.mb-3 En la actualidad y en el marco de la pandemia del COVID-19, en Colombia se ha logrado percibir una creciente participación de ciudadanos en el entorno digital, haciendo uso de las TIC (Tecnologías de la información y la comunicación) para el trabajo, el estudio, el entretenimiento, la cercanía digital entre personas, realizar pagos y otros micro servicios que facilitan y agilizan la vida cotidiana de las personas, empresas e instituciones. En virtud de lo anterior, se contempla un escenario de riesgo en el crecimiento de vulnerabilidades, aumento en las amenazas digitales y delitos informáticos para las personas, en los ambientes y sectores públicos y privados. Es así como el gobierno nacional ha dispuesto del CONPES (Consejo Nacional de Política Económica y Social) 3995, <b>Política Nacional de Confianza y Seguridad Digital</b>, que establece medidas para ampliar la confianza digital y mejorar la seguridad digital, favoreciendo a la sociedad colombiana ser incluyente y competitiva en el futuro digital.
+    p.mb-3  El Índice de Ciberseguridad Nacional, en inglés <i>National Cyber Security Index</i> (NCSI), desarrollado y soportado por la <i>e-Governance Academy</i> (eGA), que mide en uno de sus pilares la <b>educación y desarrollo profesional</b>, en materia de seguridad digital, muestra un bajo avance de Colombia en este ámbito, correspondiente al 44%. Con datos como este, y de acuerdo con el análisis realizado sobre la existencia de programas de educación superior, a través del Sistema Nacional de Información de la Educación Superior (SNIES) del Ministerio de Educación Nacional, se refleja la necesidad de fortalecer los programas de educación sobre seguridad digital y ciberseguridad.
+    p.mb-3  Según el plan de acción para fortalecer las capacidades en seguridad digital de los ciudadanos, del sector público y privado, para aumentar la confianza digital en el país, del CONPES 3995, se plantea en el quinto lugar que “el SENA, con apoyo del Ministerio de Tecnologías de la Información y las Comunicaciones, diseñará programas de formación profesional con enfoque para el trabajo y desarrollo humano, los cuales atenderán las necesidades sectoriales que se identifiquen durante el desarrollo de esta acción, para fortalecer las competencias en áreas como la seguridad digital, seguridad de la información, ciberseguridad e infraestructuras críticas”. Como respuesta a lo anterior, se diseña el programa <b>Tecnólogo en implementación y operación de la ciberseguridad</b>, enfocado en brindar los conocimientos para diagnosticar, diseñar, implementar, operar y monitorear estrategias de ciberseguridad. Asimismo, evaluar y proponer estrategias de mejora continua. El programa ofrece la oportunidad de incorporar personal con alta calidad humana, laboral y profesional en todos los sectores, ya sean industriales, comerciales, de servicios, extractivos o primarios, contribuyendo con el desarrollo económico, social y tecnológico del país.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 3. Población<br>objetivo
+      span.h4 3. Perfil de ingreso
 
-    p El curso está dirigido a profesionales, tecnólogos y técnicos en salud que requieren conocer elementos conceptuales y normativos para implementar procesos y procedimientos operativos básicos que garanticen una atención en salud integral, oportuna y de calidad a las víctimas de ataque con agentes químicos.
+    p El aspirante que busca ingresar al Tecnólogo en implementación y operación de la ciberseguridad debe tener una <b>edad mínima de 16 años</b> y contar con el <b>nivel de educación media aprobado y certificado</b>; lo que quiere decir que deberá <b>tener aprobado el grado 11</b>. No requiere tener, previamente, formación para el trabajo y el desarrollo humano. Adicionalmente, debe <b>aprobar una prueba de aptitud y conocimiento</b>.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 3. Estrategia<br>metodológica
+      span.h4 3. Perfil de egreso
 
-    p Centrada en la construcción de la autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
-      br
-      br
-      | Las estrategias didácticas integradoras están basadas en situaciones reales que le permitirán poner en marcha los contenidos conceptuales y procedimentales, aplicando sus conocimientos y habilidades para resolver un problema, frente a la atención integral de urgencias a víctimas de ataque con agentes químicos.
-      br
-      br
-      | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+    p El egresado del programa <b>Tecnólogo en implementación y operación de la ciberseguridad</b> es un talento humano con la capacidad de diagnosticar el estado actual de la ciberseguridad para cada contexto empresarial, con conocimientos y habilidades para implementar políticas y controles que garantizan la seguridad digital, aplicando estándares y metodologías nacionales e internacionales que permitan monitorear y controlar ciberamenazas. El tecnólogo con actitud crítica y ética tendrá la capacidad para realizar evaluaciones objetivas dentro del marco de la legislación aplicable, articulado con la mejora continua. Además, podrá demostrar la apropiación de la cultura del autoaprendizaje, actualización permanente, trabajo colaborativo, valores y principios éticos, que le permitirán abordar las nuevas tendencias, innovar en su proceso personal y laboral, apoyando procesos de transformación organizacional.
+
+  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
+    .titulo__template--a.mb-4
+      span.h4 3. Estrategia metodológica
+    p.mb-3  El programa se aborda teniendo como referencia principal el ciclo <i>Deming</i>, PHVA (Planear – Hacer – Verificar – Actuar), de tal manera que se puedan desarrollar los contenidos de conocimiento y prácticos, de forma ordenada, utilizando herramientas de formación virtual con contenidos de texto, interactivos y multimedia.
+    p.mb-3  La estrategia metodológica se centrará en la <b>construcción de autonomía</b> para garantizar la calidad de la formación en el marco de la <b>formación por competencias</b>, el <b>aprendizaje por proyectos</b> y el uso de técnicas <b>didácticas activas</b> que estimulan el pensamiento para la resolución de problemas simulados y reales; soportada en la utilización de las tecnologías de la información y la comunicación, integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
+    p.mb-3  Igualmente, la estrategia metodológica estimulará de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+    ul.lista-ul
+      li
+        i.fas.fa-check  
+        p.mb-0 El instructor - tutor
+      li
+        i.fas.fa-check
+        p.mb-0 El entorno 
+      li
+        i.fas.fa-check 
+        p.mb-0 Las TIC
+      li
+        i.fas.fa-check 
+        p.mb-0 El trabajo colaborativo
 
   //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")

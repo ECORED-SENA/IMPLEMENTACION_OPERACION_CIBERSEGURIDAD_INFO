@@ -1,1 +1,1 @@
-module.exports = 'Nombre del componente formativo'
+module.exports = 'Implementación y operación de la ciberseguridad'
