@@ -36,7 +36,7 @@ section
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
       span.h4 1. Presentación
-    p.mb-3  Le presentamos el programa virtual de formación <b>Tecnólogo en implementación y operación de la ciberseguridad.</b>.
+    p.mb-3  Le presentamos el programa virtual de formación <b>Tecnólogo en implementación y operación de la ciberseguridad.</b>
     p.mb-3  Mediante este programa, el aprendiz desarrollará toda una serie de conocimientos tendientes a apropiar los conceptos más importantes de la ciberseguridad: desde diagnosticar el estado actual de la ciberseguridad para cada contexto empresarial, con conocimientos y habilidades en implementación de políticas y controles que garantizan la seguridad digital, hasta la aplicación de estándares y metodologías que permitan monitorear y controlar ciberamenazas. Además, el aprendiz, con actitud crítica y ética, afianzará su capacidad para realizar evaluaciones objetivas dentro del marco de la legislación aplicable, articulada con la mejora continua de la ciberseguridad.
     p.mb-3  El <b>SENA</b>, conocedor de la necesidad del sector, le ofrece este programa de formación tecnológico con todos los elementos de formación profesional, sociales, tecnológicos y culturales, que le aportarán elementos diferenciadores de valor agregado, metodologías de aprendizaje innovadoras, acceso a tecnologías de última generación y una estructuración sobre métodos más que contenidos, que potenciarán su capacidad crítica, de librepensamiento, solidaridad y emprendimiento, innovación y adaptación a las tendencias y cambios tecnológicos y a las necesidades del sector empresarial y del trabajo.
 
