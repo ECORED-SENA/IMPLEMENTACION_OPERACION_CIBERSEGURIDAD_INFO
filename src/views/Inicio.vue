@@ -44,7 +44,7 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 2. Justificación<br>del programa
+      span.h4 2. Justificación del programa
 
     p.mb-3 En la actualidad y en el marco de la pandemia del COVID-19, en Colombia se ha logrado percibir una creciente participación de ciudadanos en el entorno digital, haciendo uso de las TIC (Tecnologías de la información y la comunicación) para el trabajo, el estudio, el entretenimiento, la cercanía digital entre personas, realizar pagos y otros micro servicios que facilitan y agilizan la vida cotidiana de las personas, empresas e instituciones. En virtud de lo anterior, se contempla un escenario de riesgo en el crecimiento de vulnerabilidades, aumento en las amenazas digitales y delitos informáticos para las personas, en los ambientes y sectores públicos y privados. Es así como el gobierno nacional ha dispuesto del CONPES (Consejo Nacional de Política Económica y Social) 3995, <b>Política Nacional de Confianza y Seguridad Digital</b>, que establece medidas para ampliar la confianza digital y mejorar la seguridad digital, favoreciendo a la sociedad colombiana ser incluyente y competitiva en el futuro digital.
     p.mb-3  El Índice de Ciberseguridad Nacional, en inglés <i>National Cyber Security Index</i> (NCSI), desarrollado y soportado por la <i>e-Governance Academy</i> (eGA), que mide en uno de sus pilares la <b>educación y desarrollo profesional</b>, en materia de seguridad digital, muestra un bajo avance de Colombia en este ámbito, correspondiente al 44 %. Con datos como este, y de acuerdo con el análisis realizado sobre la existencia de programas de educación superior, a través del Sistema Nacional de Información de la Educación Superior (SNIES) del Ministerio de Educación Nacional, se refleja la necesidad de fortalecer los programas de educación sobre seguridad digital y ciberseguridad.
@@ -52,7 +52,7 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 2. Competencias a desarrollar
+      span.h4 3. Competencias a desarrollar
     .row.justify-content-center
       .col-lg-10
         //--tabla 1
@@ -155,19 +155,19 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 3. Perfil de ingreso
+      span.h4 4. Perfil de ingreso
 
     p El aspirante que busca ingresar al Tecnólogo en implementación y operación de la ciberseguridad debe tener una <b>edad mínima de 16 años</b> y contar con el <b>nivel de educación media aprobado y certificado</b>; lo que quiere decir que deberá <b>tener aprobado el grado 11</b>. No requiere tener, previamente, formación para el trabajo y el desarrollo humano. Adicionalmente, debe <b>aprobar una prueba de aptitud y conocimiento</b>.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 3. Perfil de egreso
+      span.h4 5. Perfil de egreso
 
     p El egresado del programa <b>Tecnólogo en implementación y operación de la ciberseguridad</b> es un talento humano con la capacidad de diagnosticar el estado actual de la ciberseguridad para cada contexto empresarial, con conocimientos y habilidades para implementar políticas y controles que garantizan la seguridad digital, aplicando estándares y metodologías nacionales e internacionales que permitan monitorear y controlar ciberamenazas. El tecnólogo con actitud crítica y ética tendrá la capacidad para realizar evaluaciones objetivas dentro del marco de la legislación aplicable, articulado con la mejora continua. Además, podrá demostrar la apropiación de la cultura del autoaprendizaje, actualización permanente, trabajo colaborativo, valores y principios éticos, que le permitirán abordar las nuevas tendencias, innovar en su proceso personal y laboral, apoyando procesos de transformación organizacional.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
     .titulo__template--a.mb-4
-      span.h4 3. Estrategia metodológica
+      span.h4 6. Estrategia metodológica
     p.mb-3  El programa se aborda teniendo como referencia principal el ciclo <i>Deming</i>, PHVA (Planear – Hacer – Verificar – Actuar), de tal manera que se puedan desarrollar los contenidos de conocimiento y prácticos, de forma ordenada, utilizando herramientas de formación virtual con contenidos de texto, interactivos y multimedia.
     p.mb-3  La estrategia metodológica se centrará en la <b>construcción de autonomía</b> para garantizar la calidad de la formación en el marco de la <b>formación por competencias</b>, el <b>aprendizaje por proyectos</b> y el uso de técnicas <b>didácticas activas</b> que estimulan el pensamiento para la resolución de problemas simulados y reales; soportada en la utilización de las tecnologías de la información y la comunicación, integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
     p.mb-3  Igualmente, la estrategia metodológica estimulará de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
